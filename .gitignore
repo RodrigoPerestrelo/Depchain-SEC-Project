@@ -1,0 +1,8 @@
+.vscode
+target
+*.priv
+*.pub
+*.keyshare
+*.properties
+depchain/config/blocks/*
+depchain/config/bin/*
